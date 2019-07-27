@@ -11,7 +11,8 @@
 |A user's password should be verified | - |
 |A user's details should be saved in a database or text file | - |
 |Integrate travis to test build | - |
-|Include tests | - |
+|Include tests and code-cov | - |
+|Deploy to Github Pages | - |
 
 
 written with ❤ by John Doddy
