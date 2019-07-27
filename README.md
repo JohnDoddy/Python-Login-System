@@ -3,6 +3,7 @@
 
 | Specification or Feature | Status |
 |--------------------------|--------|
+|This project should have a UI | - | 
 |A user should be able to create a unique username/or set an email | - |
 |A user should be able to set a password | - |
 |A user should be able to save their details, creating an account | - |
